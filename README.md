@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fatemeh-khoshkam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatemeh-khoshkam/" height="30" width="40" /></a>
 </p>
-
+<br />
 ## Languages and Tools :hammer: :
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,9 +33,4 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fatemeh-khoshkam&show_icons=true&locale=en" alt="fatemeh-khoshkam" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fatemeh-khoshkam&" alt="fatemeh-khoshkam" />
-</p>
 
