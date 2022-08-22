@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm fatemeh 👩‍💻</h1>
 <h3 align="center">I'm passionate about Web Dev and I enjoy learning new technologies</h3>
 
-<img align="right" src="https://media2.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif?cid=790b761190636cc0093e604bfc9368fd9b37e387670e3e42&rid=giphy.gif&ct=s" width="400"/>
+<img align="right" src="https://media2.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif?cid=790b761190636cc0093e604bfc9368fd9b37e387670e3e42&rid=giphy.gif&ct=s" width="300"/>
 <br />
 
 - 🔭 I’m currently working : **on improving my Front-end web development skills**
